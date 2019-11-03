@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bamboo"
+        },
+        {
+            "item": "minecraft:bamboo"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:bamboo"
+        }
+    ],
+    "result": {
+        "item": "minecraft:firework_rocket",
+        "count": 3
+    }
+}
