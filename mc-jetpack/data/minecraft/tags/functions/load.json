@@ -1,6 +1,6 @@
 {
 	"replace": "false",
 	"values": [
-		"jetpack:onLoad"
+		"jetpack:onload"
 	]
 }
